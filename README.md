@@ -1,2 +1,2 @@
 # instagramDIO
-exercicio do bootcamp
+exercicio do bootcamp de FlexBox
